@@ -27,6 +27,8 @@
 
 ## Contributors
 
+*For detailed member information including LinkedIn profiles and Discord handles, see [docs/members.csv](docs/members.csv)*
+
 | Name | Role | Email | GitHub |
 |------|------|-------|--------|
 | [Lead Name] | Project Lead & [Primary Role] | [email@university.edu] | [@github-username](https://github.com/username) |
@@ -47,6 +49,10 @@
 ├── .gitignore
 ├── LICENSE
 ├── docs/
+│   ├── members.csv             # Team member details with LinkedIn & Discord
+│   ├── info.json               # Project metadata for website automation
+│   ├── thumbnail.webp          # Project thumbnail image
+│   └── pitch_slides.pdf        # Project presentation slides
 └── [additional_folder]/
 ```
 
