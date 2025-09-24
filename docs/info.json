@@ -1,30 +1,6 @@
 {
   "project_name": "[Project Title]",
-  "semester": "fall25",
-  "academic_year": "2025-2026",
-  "repository_name": "project-fall25-[project-name]",
-  "short_description": "Write exactly 100 words describing your project. Include what problem you're solving, what technology you're using, who your target audience is, and what outcomes you expect. This description will appear on the club website project cards and should be engaging enough to make visitors want to learn more about your work. Keep it concise but informative.",
   "purpose": "One sentence describing the main purpose of your project",
-  "status": "active, completed, on-hold, archived",
-  "start_date": "[YYYY-MM-DD format]",
-  "end_date": "[YYYY-MM-DD format]",
-  "project_lead": {
-    "name": "[Project Lead Full Name]",
-    "email": "[lead.email@university.edu]"
-  },
-  "faculty_advisor": {
-    "name": "[Faculty Advisor Name]",
-    "email": "[advisor.email@university.edu]"
-  },
-  "technology_stack": [
-    "[Technology/Library 1]",
-    "[Technology/Library 2]",
-    "[Technology/Library 3]",
-    "[Add more as needed]"
-  ],
-  "project_type": "[e.g., Machine Learning, Computer Vision, NLP, Data Science, AI Research, Deep Learning, etc.]",
-  "team_size": "[Number of team members]",
-  "github_url": "https://github.com/aiml-club/project-[semester]-[project-name]",
-  "kanban_board_url": "https://github.com/aiml-club/project-[semester]-[project-name]/projects/1",
-  "tags": ["[tag1]", "[tag2]", "[tag3]", "[add relevant tags]"]
+  "short_description": "Write exactly 100 words describing your project. Include what problem you're solving, what technology you're using, who your target audience is, and what outcomes you expect. This description will appear on the club website project cards and should be engaging enough to make visitors want to learn more about your work. Keep it concise but informative.",
+  "semester": "fa25"
 }
